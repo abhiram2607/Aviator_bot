@@ -51,12 +51,6 @@ This project is ready for **1-click deployment** on Vercel.
 
 ---
 
-### 📷 Screenshot Preview
-
-> *(Include a screenshot of the UI here if you want)*
-
----
-
 ### 📂 Project Structure
 
 ```
@@ -76,7 +70,7 @@ This project is ready for **1-click deployment** on Vercel.
 
 ### 📌 Credits
 
-Built with ❤️ by \[Abhi] — powered by Flask + Vercel + AI.
+Built with ❤️ by Abhiram — powered by Flask + Vercel + AI.
 
 ---
 
