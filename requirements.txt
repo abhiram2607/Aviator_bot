@@ -1,5 +1,0 @@
-
-flask
-pytesseract
-Pillow
-matplotlib
