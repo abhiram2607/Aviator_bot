@@ -1,4 +1,3 @@
-# Aviator_botSure, Abhi! Here's a professional and clear **GitHub `README.md` description** for your Aviator Prediction Bot project:
 
 ---
 
@@ -81,4 +80,3 @@ Built with ❤️ by \[Abhi] — powered by Flask + Vercel + AI.
 
 ---
 
-Would you like this saved as a `README.md` file too?
